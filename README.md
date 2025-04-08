@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/137481152?v=4" width="150" />
+  <img src="https://github.com/Github-goat/Github-goat/blob/main/aj-profile.png?raw=true" width="200" style="border-radius: 50%;" alt="AJ Abdirahman" />
 </p>
 
 <h1 align="center">Hi, I'm Abdihamid "AJ" Abdirahman 👋🏾</h1>
